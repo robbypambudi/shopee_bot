@@ -1,0 +1,16 @@
+GET / HTTP/1.1
+Host: shopee.co.id
+Cookie: _gcl_au=1.1.277714382.1626493894; _fbp=fb.2.1626493903208.237819470; SPC_F=Exe2H4pTDoNvO2VkswPJ0e3bXoDYbIRl; REC_T_ID=55138c48-e6b2-11eb-87b6-ccbbfe5dffab; REC_T_ID=55123285-e6b2-11eb-abc9-ccbbfedf9676; G_ENABLED_IDPS=google; SPC_CLIENTID=RXhlMkg0cFREb052etqnuaxdtbekiobt; SPC_EC=T1U2SmlsN1JZRWt3MEhQTpG6QYLH/hePBs1vuqlx7tfeEpjBCFt8ePaJssWhsrVCOHzcr/m2miM8JNB8f9XZPh6/AMBJMF7rB7FfE85mGRxNIswGOP4+RyzBzR5hEBx3PUGpjy1A1s3H6fAO1T/5cw==; SPC_U=77055519; SPC_R_T_ID="zBPk2FcZZHYOH2ApGAf41v7CZ1EK7DYWzao9caBeZ6sty5lI/TNSfvVm8P3onLL4ox2oehISi0B8+SE/JTjqHOU7KMdENt8sMLw0egnY1xs="; SPC_T_ID="zBPk2FcZZHYOH2ApGAf41v7CZ1EK7DYWzao9caBeZ6sty5lI/TNSfvVm8P3onLL4ox2oehISi0B8+SE/JTjqHOU7KMdENt8sMLw0egnY1xs="; SPC_R_T_IV="EjezqnDU16iaZJq/xjkZ6A=="; SPC_T_IV="EjezqnDU16iaZJq/xjkZ6A=="; _ga=GA1.1.802267189.1626493918; _ga_SW6D8G0HXK=GS1.1.1626493916.1.1.1626494686.60
+Sec-Ch-Ua: "Chromium";v="91", " Not;A Brand";v="99"
+Sec-Ch-Ua-Mobile: ?0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Connection: close
+

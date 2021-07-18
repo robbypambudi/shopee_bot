@@ -1,0 +1,49 @@
+1. Get Cookies on Shopee_Request_1 contain Cookies  
+
+2. www.gstatic.com is to hold static content and reduce bandwith usage, reduce the server load
+
+3. deo.shopeemobile.com method by GET (unknown)
+
+4. connect.facebook.net to connect to facebook
+
+5. deo.shopeemobile.com Json File 
+
+6. c-api-bit.shopeemobile.com (unknown)
+
+7. seller.shopee.sg  (Seler Centter)
+
+8. seller.shopee.co.id 
+
+9. www.facebook.com With Session on Facebook Cookies.
+
+10. c-api-bit.shopeemobile.com (shopee post).
+
+11. firebaseremoteconfig.googleapis.com is a cloud service that lets you change the behavior and appearance of your app without requiring users to download an app update.
+
+12. shopee.co.id Methode=POST /api/v4/banner/batch_list on shopee_post_1
+
+13. shopee.co.id Methode=GET /api/v2/category_list/get == Shopee_Request_1
+
+14 shopee.co.id  Methode=GET /api/v2/user/account_info?from_wallet=false&skip_address=1&need_cart=1
+* with Csrf Token
+* Cookies on shopee_request_2_with Csrf_token
+
+15. shopee.co.id same with number 14
+
+16. cf.shopee.co.id (unknown)
+-> with Cookies
+-> cf.shopee.co.id
+
+17. chat-ws.shopee.co.id (unknown)
+
+18. www.googletagmanager.com tracking google ads
+
+19. 9469210.fls.doubleclick.net
+
+20. asia.creativecdn.com
+
+21. sslwidget.criteo.com Criteo is an advertising company that provides online display advertisements.
+* Get Code = /event?a=34652&v=5.7.1&p0=e%3Dce%26m%3D%255B%255D&p1=e%3Dexd%26site_type%3Dd&p2=e%3Dvh&p3=e%3Ddis&adce=1&tld=shopee.co.id&dtycbr=72437
+
+22. ampcid.google.com (unknown)
+* POST /v1/publisher:getClientId?key=AIzaSyA65lEHUEizIsNtlbNo-l2K18dT680nsaM
